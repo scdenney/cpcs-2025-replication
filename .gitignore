@@ -1,4 +1,5 @@
 output/
+dataverse/
 .Rhistory
 .RData
 .Rproj.user
