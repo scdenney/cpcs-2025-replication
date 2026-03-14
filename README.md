@@ -4,7 +4,6 @@
 
 **How Political Socialization Shapes Citizen Preferences in Germany and Korea**
 
-Replication Package: Politician Conjoint Experiment
 *Brehm, Zhou, & Denney (2025) &mdash; Communist and Post-Communist Studies (UC Press)*
 
 [![DOI: Paper](https://img.shields.io/badge/DOI-10.1525%2Fcpcs.2025.2636997-blue?style=flat-square)](https://doi.org/10.1525/cpcs.2025.2636997) [![Open Science](https://img.shields.io/badge/Open_Science-Replication_Materials-brightgreen?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://github.com/scdenney/cpcs-2025-replication) [![R](https://img.shields.io/badge/R-%E2%89%A5_4.0-276DC3?style=flat-square&logo=r&logoColor=white)](#requirements)
