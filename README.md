@@ -17,7 +17,7 @@ Replication Package: Politician Conjoint Experiment
 
 This package replicates the **politician conjoint experiment** from:
 
-> Brehm, Nils, Zhou, Angel Hsu, and Steven Denney. 2025. "From Division to Democracy: How Political Socialization Shapes Citizen Preferences in Germany and Korea." *Communist and Post-Communist Studies*. DOI: [10.1525/cpcs.2025.2636997](https://doi.org/10.1525/cpcs.2025.2636997)
+> Brehm, Robin, Zhou, Tianzi, and Steven Denney. 2025. "From Division to Democracy: How Political Socialization Shapes Citizen Preferences in Germany and Korea." *Communist and Post-Communist Studies*. DOI: [10.1525/cpcs.2025.2636997](https://doi.org/10.1525/cpcs.2025.2636997)
 
 The experiment investigates how political socialization under divided-nation regimes shapes citizen preferences for emerging politicians. Respondents evaluate hypothetical politician profiles characterized by five political attributes (views on democracy, economy, welfare, gender, and diversity). Three populations are studied: Germans (Western, Eastern, Post-GDR citizens), South Koreans, and North Korean migrants living in South Korea.
 
