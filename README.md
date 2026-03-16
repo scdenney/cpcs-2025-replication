@@ -20,6 +20,10 @@ This package replicates the **politician conjoint experiment** from:
 
 The experiment investigates how political socialization under divided-nation regimes shapes citizen preferences for emerging politicians. Respondents evaluate hypothetical politician profiles characterized by five political attributes (views on democracy, economy, welfare, gender, and diversity). Three populations are studied: Germans (Western, Eastern, Post-GDR citizens), South Koreans, and North Korean migrants living in South Korea.
 
+Replication materials are also archived on Harvard Dataverse.
+
+> Denney, Steven. 2026. “Replication Data for: From Division to Democracy: Integrating Post-Socialist Citizens in Germany and South Korea.” Harvard Dataverse. [https://doi.org/10.7910/DVN/8GUUP5](https://doi.org/10.7910/DVN/8GUUP5)
+
 ## Repository Structure
 
 ```
